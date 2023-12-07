@@ -1,5 +1,5 @@
 ---
-title:  STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
+title:  STDFormer
 ---
 
 # STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
