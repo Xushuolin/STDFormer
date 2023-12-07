@@ -1,7 +1,6 @@
----
-title: STDFormer
----
+
 # STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
+This project code [Code](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
 ![pipline](https://github.com/Xushuolin/STDFormer/assets/121299261/07bf372f-7d02-493f-bf72-bd7b2b0be288)
 Overview of STDFormer. The figure illustrates STDFormer model's pipeline: input video frames are processed to extract features through a CNN, which are then disentangled by SD and TD modules, reweighted by a Sigmoid function, and finally decoded by a Transformer encoder to output the sequenced 3D human mesh.
 
