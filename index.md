@@ -1,6 +1,6 @@
 
 # STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
-This project code [Code](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
+## This our project [Code](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
 
 ![ff963148652c68d6a8d21770c9dd530](https://github.com/Xushuolin/STDFormer/assets/121299261/38e5e823-e68d-43fc-947b-ce478ad92933)
 The figure show the performance of our model in a sequential video task, showing the stability of the reconstruction results, the stability against occlusion interference and the advantages of limb position alignment.
