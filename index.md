@@ -1,3 +1,7 @@
+---
+title:  STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
+---
+
 # STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
 
 ## This our project [Code](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
