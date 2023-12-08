@@ -1,6 +1,7 @@
 ---
 title:  STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
 ---
+# Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
 
 ## Official PyTorch implementation of [STDFormer](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
 
