@@ -20,4 +20,10 @@ Overview of STDFormer. The figure illustrates STDFormer model's pipeline: input 
 ![论文作图20](https://github.com/Xushuolin/STDFormer/assets/121299261/11078bc5-162b-4672-bc26-1a3dd279b9e9)
 The image presents a comparative analysis of the performance of different algorithms in the task of video pose estimation, showcasing their ability to handle complex scenes such as a person riding a bicycle. The original video sequence is shown on the far left, serving as a benchmark.
 
-### Video demonstrate
+#### Spatial Decoupling:
+
+Spatial decoupling refers to, within a frame, using cross-channel attention learning to supervise target features and non-target features through different channel pooling and loss functions. After discretization, attention is concentrated on the channel where the target features are located, thereby enhancing the learning of target features within the frame and reducing attention to non-target features.
+
+#### Temporal Decoupling:
+
+Temporal decoupling involves forming a feature space based on sequential inputs, then learning the differences in features on the temporal sequence level through cross-channel learning. According to the attention weights of different channels, temporal decoupling is performed in the feature space to separate target features and non-target features on the temporal sequence level, which includes motion-related non-target features.
