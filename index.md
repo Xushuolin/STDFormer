@@ -3,7 +3,7 @@ title:  STDFormer: Spatio-Temporal Disentanglement for 3D Human Mesh Recovery fr
 ---
 # Spatio-Temporal Disentanglement for 3D Human Mesh Recovery from Monocular Videos with Transformer
 
-## Official PyTorch implementation of [STDFormer](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
+### Official PyTorch implementation of [STDFormer](https://github.com/STDFormer-3D-Human-Mesh-Recovery/STDFormer)
 
 ![ff963148652c68d6a8d21770c9dd530](https://github.com/Xushuolin/STDFormer/assets/121299261/38e5e823-e68d-43fc-947b-ce478ad92933)
 The figure show the performance of our model in a sequential video task, showing the stability of the reconstruction results, the stability against occlusion interference and the advantages of limb position alignment.
@@ -20,6 +20,7 @@ Overview of STDFormer. The figure illustrates STDFormer model's pipeline: input 
 ![论文作图20](https://github.com/Xushuolin/STDFormer/assets/121299261/11078bc5-162b-4672-bc26-1a3dd279b9e9)
 The image presents a comparative analysis of the performance of different algorithms in the task of video pose estimation, showcasing their ability to handle complex scenes such as a person riding a bicycle. The original video sequence is shown on the far left, serving as a benchmark.
 
+## Detailed supplemental
 #### Spatial Decoupling:
 
 Spatial decoupling refers to, within a frame, using cross-channel attention learning to supervise target features and non-target features through different channel pooling and loss functions. After discretization, attention is concentrated on the channel where the target features are located, thereby enhancing the learning of target features within the frame and reducing attention to non-target features.
