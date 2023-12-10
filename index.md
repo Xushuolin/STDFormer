@@ -20,6 +20,10 @@ Overview of STDFormer. The figure illustrates STDFormer model's pipeline: input 
 ![论文作图20](https://github.com/Xushuolin/STDFormer/assets/121299261/11078bc5-162b-4672-bc26-1a3dd279b9e9)
 The image presents a comparative analysis of the performance of different algorithms in the task of video pose estimation, showcasing their ability to handle complex scenes such as a person riding a bicycle. The original video sequence is shown on the far left, serving as a benchmark.
 
+https://github.com/Xushuolin/STDFormer/assets/121299261/cc69cc99-4f98-431a-b84e-75b02600141b
+The results of our reconstruction are shown here
+
+
 ## Detailed supplemental
 #### Spatial Decoupling:
 
