@@ -26,7 +26,12 @@ The image presents a comparative analysis of the performance of different algori
 </video>
 The results of our reconstruction are shown here
 
-
+<video width="640" height="360" controls>
+  <source src="fig/r2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+A comparison of our method with the current SOTA level method GLoT mentioned in the paper is shown here
+ 
 ## Detailed supplemental
 #### Spatial Decoupling:
 
